@@ -1,4 +1,4 @@
-# ch7-python-group
+# this should be the code to change the image to sepia
 
 (red, green, blue) = image.getPixel(x, y)
 if red < 63:
